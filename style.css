@@ -146,7 +146,7 @@ color: darkcyan;
 #header .hamburger {
     height: 40px;
     width: 40px;
-    display: inline-  border: 3px solid white;block;
+    display: inline-block;
     border: 3px solid white;
     border-radius: 10px;
     position: relative;
